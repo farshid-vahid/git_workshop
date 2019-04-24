@@ -1,2 +1,3 @@
 # git_workshop
-workshop for learning git
+just gitting started!
+part two
